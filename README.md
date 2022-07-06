@@ -1,12 +1,3 @@
 # Build-a-management-dashboard-with-the-dash-library
 
-
-
-
-![bb](https://user-images.githubusercontent.com/78989487/171179853-24c4d8a1-68c9-4e62-bf8e-7428a496fd49.gif)
-
-
-
-
-
-
+![Rec 0003](https://user-images.githubusercontent.com/78989487/177610796-4edaad0c-d55c-43b3-a053-91c7f4852357.gif)
