@@ -5,3 +5,4 @@
 <img src="https://s6.uupload.ir/files/rec_0003_prwp.gif">
 
 ![](https://github.com/Sanazzzmi/Build-a-management-dashboard-with-the-dash-library/edit/main/rec.gif)
+<img src="https://s6.uupload.ir/files/rec_0003_prwp.gif">
